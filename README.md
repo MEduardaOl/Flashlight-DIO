@@ -4,7 +4,7 @@ O projeto foi orientado pelo professor Ismael Moreira da plataforma da DIO, atra
 
 ## CONTEÚDO
 - Libs react-native-shake e react-native-torch
-- Icons: 
+- Icons: https://drive.google.com/drive/folders/1Kuh5tysH7-UFuSLHX0IQIIh2xcghHUIX
 - SyleSheet
 - Hook useState
 - Hook useEffect
